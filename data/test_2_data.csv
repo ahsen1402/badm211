@@ -1,4 +1,4 @@
-Sex,Marital status,Age,Education,Income,Occupation,Settlement size
+Sex,Marital_status,Age,Education,Income,Occupation,Settlement_size
 male,single,67,university,124670,skilled_employee,2
 female,non-single,22,highschool,150773,skilled_employee,2
 male,single,49,highschool,89210,unemployed,0
